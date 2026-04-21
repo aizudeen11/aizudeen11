@@ -8,7 +8,7 @@ I collaborate closely with **central banks and researchers** to deliver **value-
 ---
 
 ## 🔧 Skills & Expertise
-- **Programming & Data Tools**: Python, SQL, Tableau  
+- **Programming & Data Tools**: Python, SQL, Power BI  
 - **Data Analysis**: Statistical analysis, data visualization, econometric methods  
 - **Research**: Macroeconomics, monetary policy, case study development  
 - **Technical**: Automation, data pipelines, research workflows  
@@ -32,9 +32,11 @@ I collaborate closely with **central banks and researchers** to deliver **value-
 ---
 
 ## 📂 Featured Work 
-- 🔹 Project 1 – Short description  
-- 🔹 Project 2 – Short description  
-- 🔹 Project 3 – Short description  
+- 🔹 <a href="https://github.com/aizudeen11/Deep-learning">Forex Trend Prediction using Deep Learning (LSTM)</a> – This project applies deep learning techniques to predict short-term price movements in the EUR/USD forex market.
+- 🔹 <a href="https://github.com/aizudeen11/Forex-Trading-Analysis-">Forex Trading Strategy Analysis: Engulfing Candlestick Pattern</a> – This project analyzes the effectiveness of the engulfing candlestick pattern as a trading strategy in the forex market, specifically for the EUR/USD currency pair 
+- 🔹 <a href="https://github.com/aizudeen11/save-or-spend">Save or Spend: Loan vs Investment Optimization Model</a> – This project helps answer a practical personal finance and macro-financial decision problem
+- 🔹 <a href="https://github.com/aizudeen11/cfm-nlp">SEACEN Capital Flows Monitor</a> – An interactive web-based monitoring tool for tracking macro-financial indicators and capital flows across SEACEN economies.
+- 🔹 <a href=https://github.com/aizudeen11/CFM-data->CFM Data Pipeline with Google Drive API</a> – This project provides a lightweight Python-based pipeline to manage and automate Capital Flows Monitor (CFM) data using the Google Drive API. 
 
 ---
 
