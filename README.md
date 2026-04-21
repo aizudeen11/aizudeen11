@@ -39,14 +39,10 @@ I collaborate closely with **central banks and researchers** to deliver **value-
 ---
 
 ## 🌐 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/ahmad-aizudeen-japri-5461ba1a9/(#)
+- LinkedIn: https://www.linkedin.com/in/ahmad-aizudeen-japri-5461ba1a9/
 
 ---
 
-## 📌 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
----
 
 ## 💡 Fun Fact
 I enjoy combining **economics + technology** to turn complex data into actionable insights.
