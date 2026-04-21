@@ -38,7 +38,7 @@ I collaborate closely with **central banks and researchers** to deliver **value-
 - 🔹 <a href="https://github.com/aizudeen11/cfm-nlp">SEACEN Capital Flows Monitor</a> – An interactive web-based monitoring tool for tracking macro-financial indicators and capital flows across SEACEN economies.
 - 🔹 <a href="https://github.com/aizudeen11/CFM-data-">CFM Data Pipeline with Google Drive API</a> – This project provides a lightweight Python-based pipeline to manage and automate Capital Flows Monitor (CFM) data using the Google Drive API.
 - 🔹 <a href="https://ahmadaizudeen.shinyapps.io/cfm_section1/">Capital Flows Monitor (CFM) Section 1</a> – This is a live Shiny web app that allows users to explore and analyze financial and macroeconomics data interactively.
-- 🔹 <a href="https://ahmadaizudeen.shinyapps.io/cfm_section2/">Capital Flows Monitor (CFM) Section 2</a> – This is a live Shiny web app that allows users to explore and analyze resident and non-resident capital flows data interactively.
+- 🔹 <a href="https://ahmadaizudeen.shinyapps.io/cfm_section2/">Capital Flows Monitor (CFM) Section 2</a> – This is a live Shiny web app that allows users to explore and analyze resident and non-resident capital flows and international investment position data interactively.
 
 ---
 
